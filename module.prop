@@ -1,0 +1,6 @@
+id=disable_zram_swap_gamevm
+name=关闭zram和swap
+version=1.0
+versionCode=1
+author=H
+description=Disable zram and swap and apply extreme game VM tuning
